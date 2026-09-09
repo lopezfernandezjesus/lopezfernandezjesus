@@ -10,4 +10,4 @@ and [`python-simatic-s7-webserver-api`](https://github.com/siemens/python-simati
 
 ![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lopezfernandezjesus&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=lopezfernandezjesus&theme=tokyonight&hide_border=true)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
